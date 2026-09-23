@@ -1,0 +1,17 @@
+{
+  "name": "clitask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@clack/prompts": "^1.8.1",
+    "chalk": "^6.0.0"
+  }
+}
